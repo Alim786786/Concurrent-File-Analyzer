@@ -1,0 +1,4 @@
+Worker processes count lines, words, and characters.
+The controller sends each filename over a pipe.
+Each worker analyzes one file and sends back a structured result.
+This file is slightly longer than the first one.
